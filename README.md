@@ -24,7 +24,7 @@ python test_setup.py
 python run.py
 ```
 
-Runs everything: centralized baseline, 5 clients, aggregation, and federated learning (4-6 hours).
+Runs everything: centralized baseline, 5 clients, aggregation, and federated learning (30-50h).
 
 ### Individual Training
 
